@@ -69,7 +69,8 @@ This schema represents a banking system, which includes:
 
 
  ## **🛠️ Tools & Technologies Used** :
-- SQL – Data extraction, transformation, and querying
+- ![image](logo-mysql-170x115.png)
+
   
 
 - BANK Database – Source of banks data
