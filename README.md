@@ -69,7 +69,7 @@ This schema represents a banking system, which includes:
 
 
  ## **🛠️ Tools & Technologies Used** :
-    ![image](logo-mysql-170x115.png)
+   ![image](logo-mysql-170x115.png)
 
   
 
