@@ -5,7 +5,7 @@
 ![sql4](pexels-bala-5406959.jpg)
 
 
-## 📌 Intro :
+## 📌 Introduction :
 
 A Finance Analyst working for 'The Big Bank' we have been tasked with finding out about our customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into our customers.
 
